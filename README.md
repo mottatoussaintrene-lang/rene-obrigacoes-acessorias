@@ -157,6 +157,15 @@
   </section>
 
   <section>
+    <h2>Para quem é esse serviço?</h2>
+    <p>
+      ✔ Empresas que precisam transmitir EFD-Reinf e DCTFWeb corretamente<br>
+      ✔ Prestadores de serviços<br>
+      ✔ Profissionais que buscam apoio técnico confiável
+    </p>
+  </section>
+
+  <section>
     <h2>Contato</h2>
     <p>
       📧 <strong>E-mail:</strong>
