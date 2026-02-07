@@ -183,7 +183,7 @@
 
   <a class="whatsapp-float"
      href="https://wa.me/5531994337335"
-    google-site-verification: google06d58917c0f29d78.html
+ google06d58917c0f29d78.html
      target="_blank">
      WhatsApp
   </a>
