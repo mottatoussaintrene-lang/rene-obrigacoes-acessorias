@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<google06d58917c0f29d78.html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -183,7 +183,6 @@
 
   <a class="whatsapp-float"
      href="https://wa.me/5531994337335"
- google06d58917c0f29d78.html
      target="_blank">
      WhatsApp
   </a>
